@@ -20,6 +20,7 @@ header {
 }
 header ul {
   list-style: none;
+  display: inline;
 }
 header ul a {
   color: white;
